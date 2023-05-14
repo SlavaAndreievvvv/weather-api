@@ -1,6 +1,6 @@
-@use "normalize.css";
+@use "./config/normalize";
 @use "./config/reset";
 @use "./config/common";
 
 //Components
-@use "./components/title";
+@use "./components/app";
